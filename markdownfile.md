@@ -1,10 +1,14 @@
-- [x] Evidenziare di giallo nel seleziona risorse modalità tutti
-- [ ] Interventi per unità, mettere i filtri (agre)
-- [x] Risorse diversificate
-- [x] Documentale nell'intervento (agre)
-- [ ] In base al flag nei parametri, se confermo chiedo l'invio email (agre)
-- [x] Nel calendario prevedere il lancio BO, solo se utente gestionale
-- [x] Evidenziare mancanza di risorse nell'intervallo
-    - [x] Trovare alternativa alla stanghetta di destra
-- [x] Quick info con altre info
-- [x] Preferiti e Home
+Firma GRAFOMETRICA
+- [x] Scaricare nuovo componente
+- [x] Stepizzarlo
+    - [ ] Fissare le giuste dimensioni per i vari device
+- [x] Toolbar bottoni, farne due
+- [x] licon title
+- [x] Bloccare proprietà del popup e metterlo schermo intero
+- [x] Batch
+    - [x] Salvataggio su percorso documentale
+    - [x] Scrittura del campo
+    - [x] Cancellazione file
+- [x] Passare nome file già con il NewCPCCCHK(7)
+
+
