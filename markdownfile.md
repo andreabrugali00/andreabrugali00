@@ -1,6 +1,10 @@
-PORTLET RIVISTO
-* Codice commentato in action code e trovabile grazie al commento //AGRE
-* Aggiunto bottone filtro **lwp_docfildoc**:
-    * spllinker che passa come parametri i filtri già applicati **spl_ApriFiltri**
-    * emitter che passa i nuovi filtri
-* Receiver **evt_confermafiltri** che prende dal portlet dei filtri i nuovi filtri
+- [x] Evidenziare di giallo nel seleziona risorse modalità tutti
+- [ ] Interventi per unità, mettere i filtri (agre)
+- [x] Risorse diversificate
+- [x] Documentale nell'intervento (agre)
+- [ ] In base al flag nei parametri, se confermo chiedo l'invio email (agre)
+- [x] Nel calendario prevedere il lancio BO, solo se utente gestionale
+- [x] Evidenziare mancanza di risorse nell'intervallo
+    - [x] Trovare alternativa alla stanghetta di destra
+- [x] Quick info con altre info
+- [x] Preferiti e Home
