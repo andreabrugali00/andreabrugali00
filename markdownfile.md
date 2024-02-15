@@ -9,6 +9,6 @@ Firma GRAFOMETRICA
     - [x] Salvataggio su percorso documentale
     - [x] Scrittura del campo
     - [x] Cancellazione file
-- [x] Passare nome file già con il NewCPCCCHK(7)
+- [ ] Passare nome file già con il NewCPCCCHK(7)
 
 
